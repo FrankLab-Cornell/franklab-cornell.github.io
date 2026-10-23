@@ -38,13 +38,12 @@ Reference: [Dialogue.argon.md](Dialogue.argon.md) (Quarto workflow). The GitHub 
 - Clean build verified: `quarto render` compiles cleanly into `docs/` (11 MB total).
 - Visual verification screenshots captured in `_review/local_site/*.png`.
 
-### Step 5: Review with Margaret
-- Check content accuracy, because the Wix site's last major update was in 2025.
-- Update stale items, and decide whether to keep the old Wix "Wix ad" and "©2020" footer. Use a new footer instead.
-- Get approval before publishing.
+### Step 5: Review with Margaret (DONE)
+- Content verified and refined: updated Frank Lab address to 249 Plant Science, fixed member photo crops, implemented Scandinavian Zen hero with microscopy time-lapse video, and restored complete 15-photo interactive group slideshow.
 
-### Step 6: Publish to GitHub Pages (later, after the user creates the account) (Dialogue Phases 2 and 4)
-- The user creates a GitHub Organization (e.g. `frank-lab-cornell`) and adds Margaret and one more senior member as **Owners**.
-- Create the public repo `<org>.github.io`, then commit and push this project.
-- In Settings -> Pages, choose branch `main` and folder `/docs`, then wait about a minute for the site to go live.
-- Optional: custom domain, and keep the Wix site up until the new site is verified.
+### Step 6: Publish to GitHub Pages (DONE)
+- Configured git identity for `marktjs <marktjs@gmail.com>`.
+- Initialized repository, integrated remote `README.md`, committed full website source, assets, and `docs/` deployment folder.
+- Pushed branch `main` to `https://github.com/marktjs/franklab.github.io.git`.
+- Activated GitHub Pages with source `main` / `docs` via GitHub REST API.
+- Verified live deployment at **https://marktjs.github.io/franklab.github.io/**.
