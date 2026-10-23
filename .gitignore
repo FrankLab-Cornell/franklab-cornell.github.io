@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.DS_Store
+
+/.quarto/
+**/*.quarto_ipynb
+
+# Local scraping archive & temporary review screenshots
+_original_site/
+_review/

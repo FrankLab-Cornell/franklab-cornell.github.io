@@ -1,0 +1,145 @@
+---
+title: "Publications"
+---
+
+## 2025
+
+**A unified framework for hydromechanical signaling can explain transmission of local and long-distance signals in plants.**
+V. Bacheva, F.E. Rockwell, J. Salmon, J.D. Woodson, M.H. Frank, & A.D. Stroock.
+*Proc. Natl. Acad. Sci. U.S.A.* 122 (17) e2422692122 (2025). [https://doi.org/10.1073/pnas.2422692122](https://doi.org/10.1073/pnas.2422692122)
+
+**Transdisciplinary Collaborations for Advancing Sustainable and Resilient Agricultural Systems.**
+Bacheva, V., Madison, I., Baldwin, M., Baker, J., Beilstein, M., Call, D.F., Deaver, J.A., Efimenko, K., Genzer, J., Grieger, K., Gu, A.Z., Ilman, M.M., Liu, J., Li, S., Mayer, B.K., Mishra, A.K., Nino, J.C., Rubambiza, G., Sengers, P., Shepherd, R., Woodson, J., Weatherspoon, H., Frank, M., Jones, J.L., Sozzani, R. and Stroock, A.D.
+(2025), *Glob Change Biol.* [https://doi.org/10.1111/gcb.70142](https://doi.org/10.1111/gcb.70142)
+
+**Re-analysis of mobile mRNA datasets raises questions about the extent of long-distance mRNA communication.**
+Pirita Paajanen, Melissa Tomkins, Franziska Hoerbst, Ruth Veevers, Michelle Heeney, Hannah Rae Thomas, Federico Apelt, Eleftheria Saplaoura, Saurabh Gupta, Margaret Frank, Dirk Walther, Christine Faulkner, Julia Kehr, Friedrich Kragler, Richard J Morris.
+*Nat. Plants* (2025). [https://doi.org/10.1038/s41477-025-01979-x](https://doi.org/10.1038/s41477-025-01979-x)
+
+## 2024
+
+**Graft incompatibility between pepper and tomato elicits an immune response and triggers localized cell death.**
+Hannah Rae Thomas, Alice Gevorgyan, Alexandra Hermanson, Samantha Yanders, Lindsay Erndwein, Matthew Norman-Ariztía, Erin E Sparks, Margaret H Frank.
+*Horticulture Research*, Volume 11, Issue 12, December 2024, uhae255. [https://doi.org/10.1093/hr/uhae255](https://doi.org/10.1093/hr/uhae255)
+
+**A transcriptional dissection of the petty spurge (*Euphorbia peplus* L.) reproductive structure.**
+Arielle Rose Johnson, Ashley Bao, Margaret Hannah Frank.
+*bioRxiv* 2024.05.06.592779. [https://doi.org/10.1101/2024.05.06.592779](https://doi.org/10.1101/2024.05.06.592779)
+
+**Pluripotency of a founding field: rebranding developmental biology.**
+Crystal D. Rogers et al.
+*Development* 1 February 2024; 151 (3): dev202342. [https://doi.org/10.1242/dev.202342](https://doi.org/10.1242/dev.202342)
+
+## 2023
+
+**Anatomical and biophysical basis for graft incompatibility within the Solanaceae.**
+Hannah R Thomas, Alice Gevorgyan, Margaret H Frank.
+*Journal of Experimental Botany*, Volume 74, Issue 15, 17 August 2023, Pages 4461–4470. [https://doi.org/10.1093/jxb/erad155](https://doi.org/10.1093/jxb/erad155)
+Highlighted in Science Magazine: [https://www.science.org/doi/10.1126/science.adk9203](https://www.science.org/doi/10.1126/science.adk9203)
+
+**Introduction of barnase/barstar in soybean produces a rescuable male sterility system for hybrid breeding.**
+Szeluga, N., Baldrich, P., DelPercio, R., Meyers, B. C., & Frank, M. H.
+*Plant Biotechnology Journal.* [https://doi.org/10.1111/pbi.14155](https://doi.org/10.1111/pbi.14155)
+
+**The mRNA mobileome: challenges and opportunities for deciphering signals from the noise.**
+Michelle Heeney, Margaret H Frank.
+*The Plant Cell*, Volume 35, Issue 6, June 2023, Pages 1817–1833. [https://doi.org/10.1093/plcell/koad063](https://doi.org/10.1093/plcell/koad063)
+
+**Chromosome-level Genome Assembly of *Euphorbia peplus*, a Model System for Plant Latex, Reveals that Relative Lack of Ty3 Transposons Contributed to Its Small Genome Size.**
+Arielle R Johnson, Yuanzheng Yue, Sarah B Carey, Se Jin Park, Lars H Kruse, Ashley Bao, Asher Pasha, Alex Harkess, Nicholas J Provart, Gaurav D Moghe, Margaret H Frank.
+*Genome Biology and Evolution*, Volume 15, Issue 3, March 2023, evad018. [https://doi.org/10.1093/gbe/evad018](https://doi.org/10.1093/gbe/evad018)
+
+## 2022
+
+**Integrated PET and confocal imaging informs a functional timeline for the dynamic process of vascular reconnection during grafting.**
+Frank, MH, Komarov, S, Wang, Q, Li, K, Hecking, M, Fowler, H, Ravenburg, C, Widmier, A, Johnson, A, Thomas, H, Coneva, V, Chitwood, DH, Tai, Y-C. (2022) In Review.
+Preprint on bioRxiv: [https://doi.org/10.1101/2022.10.27.513862](https://doi.org/10.1101/2022.10.27.513862)
+
+**ColourQuant: a high-throughput technique to extract and quantify color phenotypes from plant images.** Book chapter in *High-Throughput Plant Phenotyping*.
+Li, M, Frank, MH, Migicovsky, Z (2022) *Methods Mol Biol* 2539:77-85. Editor: Dr. Argelia Lorence.
+Preprint on arXiv: [https://arxiv.org/abs/1903.01652](https://arxiv.org/abs/1903.01652)
+
+**The evolutionary history of small RNAs in the Solanaceae.**
+Baldrich, P, Bélanger, S, Kong, S, Pokhrel, S, Tamim, S, Teng, C, Schiebout, C, Gurazada, SGR, Gupta, P, Patel, P, Nakano, M, Dusia, A, Meyers, BC, Frank, MH.
+*Plant Physiology* 2022, 189(2): 644-665. DOI: [https://doi.org/10.1093/plphys/kiac089](https://doi.org/10.1093/plphys/kiac089)
+Preprint on bioRxiv: [https://doi.org/10.1101/2021.05.26.445884](https://doi.org/10.1101/2021.05.26.445884)
+
+**Gene regulatory networks for compatible versus incompatible grafts identify a role for SlWOX4 during junction formation.**
+Thomas, H\*, Van den Broeck\*, L, Spurney, R, Sozzani, R, Frank, M.
+(2022) *The Plant Cell* 34(1): 535-556. DOI: [https://doi.org/10.1093/plcell/koab246](https://doi.org/10.1093/plcell/koab246)
+Preprint on bioRxiv: [https://www.biorxiv.org/content/biorxiv/early/2021/02/27/2021.02.26.433082.full.pdf](https://www.biorxiv.org/content/biorxiv/early/2021/02/27/2021.02.26.433082.full.pdf)
+
+## 2021
+
+**A quantitative dissection of color patterning in the foliar ornamental, coleus.**
+Li, M, Coneva, V, Clark, D, Chitwood, DH, Frank, MH.
+*Plant Physiology* 187(3): 1310-1324. DOI: [https://doi.org/10.1093/plphys/kiab393](https://doi.org/10.1093/plphys/kiab393)
+Preprint on bioRxiv: [https://doi.org/10.1101/2021.01.11.426252](https://doi.org/10.1101/2021.01.11.426252)
+
+**Growing a glue factory: open questions in laticifer development.**
+Johnson, A, Moghe, G, Frank MH.
+*Current Opinion in Plant Biology* 64: 102096. DOI: [https://doi.org/10.1016/j.pbi.2021.102096](https://doi.org/10.1016/j.pbi.2021.102096)
+
+**Getting to the root of grafting-induced traits.**
+Williams, Brandon, Muhammad Umair Ahsan, and Margaret Frank.
+*Current Opinion in Plant Biology* 59: 101988. [https://doi.org/10.1016/j.pbi.2020.101988](https://doi.org/10.1016/j.pbi.2020.101988)
+
+## 2020
+
+**TBtools - an integrative toolkit developed for interactive analyses of big biological data.**
+Chengjie Chen, Hao Chen, Yi Zhang, Hannah R. Thomas, Margaret H. Frank, Yehua He, and Rui Xia.
+*Molecular Plant* 13(8): 1194-1202. [https://doi.org/10.1016/j.molp.2020.06.009](https://doi.org/10.1016/j.molp.2020.06.009)
+Preprint on bioRxiv: [https://www.biorxiv.org/content/10.1101/289660v3](https://www.biorxiv.org/content/10.1101/289660v3)
+Download TBtools here: [https://github.com/CJ-Chen/TBtools/releases](https://github.com/CJ-Chen/TBtools/releases)
+
+**Vein-to-blade ratio is an allometric indicator of climate-induced changes in grapevine leaf size and shape.**
+Daniel H. Chitwood, Joey Mullins, Zoë Migicovsky, Margaret H. Frank, Robert VanBuren, Jason P. Londo.
+*bioRxiv* 2020.05.20.106906. [https://doi.org/10.1101/2020.05.20.106906](https://doi.org/10.1101/2020.05.20.106906)
+
+**Composite modeling of leaf shape across shoots discriminates *Vitis* species better than individual leaves.**
+Abigail E. Bryson et al.
+*bioRxiv* 2020.06.22.163899. [https://doi.org/10.1101/2020.06.22.163899](https://doi.org/10.1101/2020.06.22.163899)
+
+## 2019
+
+**ColourQuant: a high-throughput technique to extract and quantify colour phenotypes from plant images.**
+Li, M, Frank, MH, and Migicovsky, Z.
+arXiv: [http://arxiv.org/abs/1903.01652](http://arxiv.org/abs/1903.01652) (in review for Springer Books).
+
+**Connecting the pieces: uncovering the molecular basis for long-distance communication through plant grafting.**
+Thomas, HR and Frank, MH.
+*New Phytologist* 223(2): 582-589. DOI: [10.1111/nph.15772](https://doi.org/10.1111/nph.15772)
+
+## 2018
+
+**Plasmodesmata in phloem: different gateways for different cargoes.**
+Lee, J-Y and Frank, MH.
+*Current Opinion in Plant Biology* 43:119-124. DOI: [10.1016/j.pbi.2018.04.014](https://doi.org/10.1016/j.pbi.2018.04.014)
+
+**The persistent homology mathematical framework provides enhanced genotype-to-phenotype associations for plant morphology.**
+Li, M, Frank, MH, Coneva, V, Mio, W, Topp, CN, and Chitwood, DH.
+*Plant Physiology.* DOI: [10.1104/pp.18.00104](https://doi.org/10.1104/pp.18.00104)
+
+**Topological Data Analysis as a Morphometric Method: Using Persistent Homology to Demarcate a Leaf Morphospace.**
+Li, M et al.
+*Frontiers in Plant Science* 553. DOI: [10.3389/fpls.2018.00553](https://doi.org/10.3389/fpls.2018.00553)
+
+## 2017
+
+Coneva, V, Frank, MH, de Luis Balaguer, MA, Sozzani, R, and Chitwood, DH (2017) **Genetic architecture and molecular networks underlying leaf thickness in desert-adapted tomato *Solanum pennellii*.** *Plant Physiology* 175(1):376-391. DOI: [10.1104/pp.17.00790](https://doi.org/10.1104/pp.17.00790)
+
+Andres, RJ, Coneva, V, Frank, MH, Tuttle, JR, Han, S-W, Samayoa, LF, Kaur, B, Zhu, L, Fang, H, Bowman, DT, Rojas-Pierce, M, Haigler, CH, Jones, DC, Holland, JB, Chitwood, DH, and Kuraparthy, V. **Modifications to a *LATE MERISTEM IDENTITY-1* gene are responsible for the major leaf shapes of Upland cotton (*Gossypium hirsutum* L.).** *Proceedings of the National Academy of Sciences Plus* 114(1):E57-E66. DOI: [10.1073/pnas.1613593114](https://doi.org/10.1073/pnas.1613593114)
+
+## 2016
+
+Frank, MH and Chitwood, DH (2016) **Plant Chimeras: the good, the bad, and the 'Bizzaria'.** *Developmental Biology* 419: 41-53. DOI: [10.1016/j.ydbio.2016.07.003](https://doi.org/10.1016/j.ydbio.2016.07.003)
+
+Warschefsky, EJ, Klein, LL, Frank, MH, Chitwood, DH, Londo, JP, von Wettberg, EJB, and Miller, AJ (2016) **Rootstocks: Diversity, Domestication, and Impacts on Shoot Phenotypes.** *Trends in Plant Science* 21: 418-37. DOI: [10.1016/j.tplants.2015.11.008](https://doi.org/10.1016/j.tplants.2015.11.008)
+
+## 2015
+
+Frank, MH and Scanlon, MJ (2015) **Cell-Specific Transcriptomic Analyses of 3-Dimensional Shoot Development in the moss *Physcomitrella patens*.** *The Plant Journal* 83: 743-751. DOI: [10.1111/tpj.12928](https://doi.org/10.1111/tpj.12928)
+
+Frank, MH, Edwards, MB, Schultz, ER, McKain, MR, Fei, Z, Sorensen, I, Rose, JKC, Scanlon, MJ (2015) **Dissecting the molecular signatures of apical cell-type shoot meristems from two ancient land plant lineages.** *New Phytologist* 207: 893-904. DOI: [10.1111/nph.13407](https://doi.org/10.1111/nph.13407)
+
+Frank, MH and Scanlon MJ (2015) **Transcriptomic Evidence for the Evolution of Shoot Meristem Function in Sporophyte-Dominant Land Plants through Concerted Selection of Ancestral Gametophytic and Sporophytic Genetic Programs.** *Molecular Biology and Evolution* 32: 355-367. DOI: 10.1093/molbev/msv182 *(the original page printed this DOI as "10.1093/mol- bev/msv182")*

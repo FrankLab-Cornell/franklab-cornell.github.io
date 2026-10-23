@@ -1,0 +1,789 @@
+[
+  {
+    "file": "de23fd_4ef95ad3315a4884bfec08ae7cf36e3c~mv2.jpeg",
+    "group": "about",
+    "slug": "about-lab",
+    "alt": "Lab members jumping in the snow in front of a frozen waterfall",
+    "out": "images/about/about-lab.jpg",
+    "size": [
+      1008,
+      756
+    ]
+  },
+  {
+    "file": "0cb15d_07796e84b3284f8db0231f700f7ac5c3~mv2.jpg",
+    "group": "research",
+    "slug": "hero-plant-grafting",
+    "alt": "Grafted pepper seedling with roots",
+    "out": "images/research/hero-plant-grafting.jpg",
+    "size": [
+      1504,
+      2016
+    ]
+  },
+  {
+    "file": "0cb15d_775c18082cb24931ba2f534c7f54086f~mv2.png",
+    "group": "research",
+    "slug": "graft-incompatibility",
+    "alt": "Anatomy of compatible and incompatible tomato and pepper grafts",
+    "out": "images/research/graft-incompatibility.jpg",
+    "size": [
+      1560,
+      1262
+    ]
+  },
+  {
+    "file": "0cb15d_53f07b56068245adbf0f6877ee3243b5~mv2.jpg",
+    "group": "research",
+    "slug": "bg-long-distance-communication",
+    "alt": "Grafted tomato plants",
+    "out": "images/research/bg-long-distance-communication.jpg",
+    "size": [
+      404,
+      234
+    ]
+  },
+  {
+    "file": "0cb15d_0f3ead46a35a425ca45a472a8a5ba27f~mv2.jpg",
+    "group": "research",
+    "slug": "graft-induced-vigor",
+    "alt": "Lab member inspecting a grafted tomato plant in the greenhouse",
+    "out": "images/research/graft-induced-vigor.jpg",
+    "size": [
+      1800,
+      2400
+    ]
+  },
+  {
+    "file": "0cb15d_5723f919aa9c4f63b08a66702252510b~mv2.png",
+    "group": "research",
+    "slug": "graft-mobileomes",
+    "alt": "Confocal images of a tomato/eggplant graft junction",
+    "out": "images/research/graft-mobileomes.jpg",
+    "size": [
+      1300,
+      975
+    ]
+  },
+  {
+    "file": "0cb15d_7204f9c08627400e8ace9d9b9a74bf53~mv2.jpg",
+    "group": "research",
+    "slug": "bg-sustainable-agriculture",
+    "alt": "Field of crops",
+    "out": "images/research/bg-sustainable-agriculture.jpg",
+    "size": [
+      1800,
+      1200
+    ]
+  },
+  {
+    "file": "0cb15d_1351704901f24dc4abdfcfd3b5fc7517~mv2.jpg",
+    "group": "research",
+    "slug": "hybrid-soybean",
+    "alt": "Bee visiting a soybean flower",
+    "out": "images/research/hybrid-soybean.jpg",
+    "size": [
+      1800,
+      1749
+    ]
+  },
+  {
+    "file": "de23fd_a28ece229fc04fdcb9c6a0d35101e18e~mv2.png",
+    "group": "people",
+    "slug": "dr-margaret-frank",
+    "alt": "Photo of Dr. Margaret Frank",
+    "out": "images/people/dr-margaret-frank.jpg",
+    "size": [
+      700,
+      933
+    ]
+  },
+  {
+    "file": "c920f0_b99eda9445d3450fb778f14f7fc4e2ab~mv2.jpg",
+    "group": "people",
+    "slug": "michelle-heeney",
+    "alt": "Photo of Michelle Heeney",
+    "out": "images/people/michelle-heeney.jpg",
+    "size": [
+      700,
+      933
+    ]
+  },
+  {
+    "file": "c920f0_dd616000eb60480884efa74c8243ce99~mv2.jpg",
+    "group": "people",
+    "slug": "zachary-joseph-ruwitch",
+    "alt": "Photo of Zachary Joseph Ruwitch",
+    "out": "images/people/zachary-joseph-ruwitch.jpg",
+    "size": [
+      700,
+      933
+    ]
+  },
+  {
+    "file": "c920f0_6d5a277981b6453ba9e6f2d79a901499~mv2.jpg",
+    "group": "people",
+    "slug": "elise-boisvert",
+    "alt": "Photo of Elise Boisvert",
+    "out": "images/people/elise-boisvert.jpg",
+    "size": [
+      700,
+      630
+    ]
+  },
+  {
+    "file": "c920f0_2a80072e28184c1e91643614df7a4e89~mv2.jpg",
+    "group": "people",
+    "slug": "jessica-morgan",
+    "alt": "Photo of Jessica Morgan",
+    "out": "images/people/jessica-morgan.jpg",
+    "size": [
+      700,
+      364
+    ]
+  },
+  {
+    "file": "c920f0_3cbf07886da14cebba8cfe29ef346060~mv2.png",
+    "group": "people",
+    "slug": "tian-gong",
+    "alt": "Photo of Tian Gong",
+    "out": "images/people/tian-gong.jpg",
+    "size": [
+      700,
+      933
+    ]
+  },
+  {
+    "file": "c920f0_542633975a554b3e86a2c2d3b55c7898~mv2.jpg",
+    "group": "people",
+    "slug": "noor-albader",
+    "alt": "Photo of Noor AlBader",
+    "out": "images/people/noor-albader.jpg",
+    "size": [
+      640,
+      1136
+    ]
+  },
+  {
+    "file": "c920f0_a39c8c6e6721445fbba86837ce676986~mv2.jpeg",
+    "group": "people",
+    "slug": "tin-aye",
+    "alt": "Photo of Tin Aye",
+    "out": "images/people/tin-aye.jpg",
+    "size": [
+      700,
+      525
+    ]
+  },
+  {
+    "file": "c920f0_f2101aaf35ec4b6ca303970bb22455cc~mv2.jpeg",
+    "group": "people",
+    "slug": "sam-yanders",
+    "alt": "Photo of Sam Yanders",
+    "out": "images/people/sam-yanders.jpg",
+    "size": [
+      700,
+      700
+    ]
+  },
+  {
+    "file": "c920f0_16fcb83d129642a6a7ec48ad34c77f89~mv2.jpg",
+    "group": "people",
+    "slug": "israel-gabay",
+    "alt": "Photo of Israel Gabay",
+    "out": "images/people/israel-gabay.jpg",
+    "size": [
+      700,
+      525
+    ]
+  },
+  {
+    "file": "c920f0_6864e175bf194cf1931a6852f2c3882d~mv2.jpg",
+    "group": "people",
+    "slug": "antone-jung",
+    "alt": "Photo of Antone Jung",
+    "out": "images/people/antone-jung.jpg",
+    "size": [
+      700,
+      1441
+    ]
+  },
+  {
+    "file": "c920f0_941e8823e913471589834c65d2778dad~mv2.jpg",
+    "group": "people",
+    "slug": "xing-ma",
+    "alt": "Photo of Xing Ma",
+    "out": "images/people/xing-ma.jpg",
+    "size": [
+      700,
+      700
+    ]
+  },
+  {
+    "file": "0cb15d_19ca3769f5e948759635a74eca6c47dc~mv2.jpg",
+    "group": "people",
+    "slug": "henry-sun",
+    "alt": "Photo of Henry Sun",
+    "out": "images/people/henry-sun.jpg",
+    "size": [
+      700,
+      366
+    ]
+  },
+  {
+    "file": "c920f0_fd1c2a353e914f989292515ba28df6b5~mv2.jpg",
+    "group": "people",
+    "slug": "emma-nam",
+    "alt": "Photo of Emma Nam",
+    "out": "images/people/emma-nam.jpg",
+    "size": [
+      700,
+      1050
+    ]
+  },
+  {
+    "file": "c920f0_2adb382a4a8d45c695031da424b23972~mv2.jpg",
+    "group": "people",
+    "slug": "lucia-gore",
+    "alt": "Photo of Lucia Gore",
+    "out": "images/people/lucia-gore.jpg",
+    "size": [
+      700,
+      1050
+    ]
+  },
+  {
+    "file": "c920f0_8187bf768f004ab2ae64245ee6153447~mv2.jpg",
+    "group": "people",
+    "slug": "guinevere-goldberg",
+    "alt": "Photo of Guinevere Goldberg",
+    "out": "images/people/guinevere-goldberg.jpg",
+    "size": [
+      700,
+      933
+    ]
+  },
+  {
+    "file": "de23fd_d88e08ca98624c078cbb9305dde8fa52~mv2.jpg",
+    "group": "people",
+    "slug": "annabel-and-graham",
+    "alt": "Photo of Annabel and Graham",
+    "out": "images/people/annabel-and-graham.jpg",
+    "size": [
+      700,
+      933
+    ]
+  },
+  {
+    "file": "de23fd_d0bd8134878644799b099998378fb10b~mv2.png",
+    "group": "people",
+    "slug": "dr-hannah-rae-thomas",
+    "alt": "Photo of Dr. Hannah Rae Thomas",
+    "out": "images/people/dr-hannah-rae-thomas.jpg",
+    "size": [
+      700,
+      933
+    ]
+  },
+  {
+    "file": "c920f0_11e829e839ac407cb938f79925c66f8a~mv2.jpg",
+    "group": "people",
+    "slug": "dr-brandon-williams",
+    "alt": "Photo of Dr. Brandon Williams",
+    "out": "images/people/dr-brandon-williams.jpg",
+    "size": [
+      700,
+      700
+    ]
+  },
+  {
+    "file": "0cb15d_d933b5953fee4ecbacda59a75d0cc3c5~mv2.jpg",
+    "group": "people",
+    "slug": "paul-ren-huang-chong",
+    "alt": "Photo of Paul Ren-Huang Chong",
+    "out": "images/people/paul-ren-huang-chong.jpg",
+    "size": [
+      700,
+      933
+    ]
+  },
+  {
+    "file": "de23fd_223077aeb31c460e8e1280c9b09b9a1a~mv2.png",
+    "group": "people",
+    "slug": "audrey-widmier",
+    "alt": "Photo of Audrey Widmier",
+    "out": "images/people/audrey-widmier.jpg",
+    "size": [
+      700,
+      809
+    ]
+  },
+  {
+    "file": "0cb15d_d71a2b4801574836a88fa4fc7c5a7e20~mv2.jpg",
+    "group": "people",
+    "slug": "jenny-probst",
+    "alt": "Photo of Jenny Probst",
+    "out": "images/people/jenny-probst.jpg",
+    "size": [
+      354,
+      630
+    ]
+  },
+  {
+    "file": "0cb15d_eefba9917e2d4febb165054f43d11f1f~mv2.jpg",
+    "group": "people",
+    "slug": "dr-kevin-hines",
+    "alt": "Photo of Dr. Kevin Hines",
+    "out": "images/people/dr-kevin-hines.jpg",
+    "size": [
+      700,
+      703
+    ]
+  },
+  {
+    "file": "0cb15d_3415ca35d5ca4b0da90a7ba0f5439633~mv2.jpg",
+    "group": "people",
+    "slug": "umair-ahsan",
+    "alt": "Photo of Umair Ahsan",
+    "out": "images/people/umair-ahsan.jpg",
+    "size": [
+      700,
+      700
+    ]
+  },
+  {
+    "file": "0cb15d_cfeafdc8e57f41f19c98388c464c0a49~mv2.jpg",
+    "group": "people",
+    "slug": "matthew-hecking",
+    "alt": "Photo of Matthew Hecking",
+    "out": "images/people/matthew-hecking.jpg",
+    "size": [
+      700,
+      939
+    ]
+  },
+  {
+    "file": "0cb15d_03ea91ff573842b98891a471313d80a6~mv2.jpg",
+    "group": "people",
+    "slug": "sophia-monroe",
+    "alt": "Photo of Sophia Monroe",
+    "out": "images/people/sophia-monroe.jpg",
+    "size": [
+      700,
+      500
+    ]
+  },
+  {
+    "file": "0cb15d_a5b12dd4e35d4baaa387b06e4e054fba~mv2.jpg",
+    "group": "people",
+    "slug": "nicole-hempel",
+    "alt": "Photo of Nicole Hempel",
+    "out": "images/people/nicole-hempel.jpg",
+    "size": [
+      700,
+      933
+    ]
+  },
+  {
+    "file": "0cb15d_282152e9340c4edab9b8a54bcf396540~mv2.jpg",
+    "group": "people",
+    "slug": "allie-hermanson",
+    "alt": "Photo of Allie Hermanson",
+    "out": "images/people/allie-hermanson.jpg",
+    "size": [
+      700,
+      933
+    ]
+  },
+  {
+    "file": "0cb15d_0f15c3ae02bb4cc3aafc559bb62e50d0~mv2.jpg",
+    "group": "people",
+    "slug": "yuanzheng-yue",
+    "alt": "Photo of Yuanzheng Yue",
+    "out": "images/people/yuanzheng-yue.jpg",
+    "size": [
+      700,
+      700
+    ]
+  },
+  {
+    "file": "0cb15d_5291a66f9ac940af94c3dd5eb999f414~mv2.jpg",
+    "group": "people",
+    "slug": "dr-hamid-razifard",
+    "alt": "Photo of Dr. Hamid Razifard",
+    "out": "images/people/dr-hamid-razifard.jpg",
+    "size": [
+      700,
+      765
+    ]
+  },
+  {
+    "file": "c920f0_68563bcd43f446059e5a3b8e904856e3~mv2.png",
+    "group": "people",
+    "slug": "eliza-odonnell",
+    "alt": "Photo of Eliza O'Donnell",
+    "out": "images/people/eliza-odonnell.jpg",
+    "size": [
+      700,
+      546
+    ]
+  },
+  {
+    "file": "c920f0_6ae2ae3deffc4cf5a2830ac6c91a0bd7~mv2.jpg",
+    "group": "people",
+    "slug": "david-zimmerman",
+    "alt": "Photo of David Zimmerman",
+    "out": "images/people/david-zimmerman.jpg",
+    "size": [
+      436,
+      491
+    ]
+  },
+  {
+    "file": "c920f0_1388e181a4874dfb8d7299a9896c0920~mv2.jpg",
+    "group": "people",
+    "slug": "kylie-shae-weis",
+    "alt": "Photo of Kylie Shae Weis",
+    "out": "images/people/kylie-shae-weis.jpg",
+    "size": [
+      380,
+      367
+    ]
+  },
+  {
+    "file": "c920f0_b95c4a4127144b9798e0e0655624c3bf~mv2.png",
+    "group": "people",
+    "slug": "kyle-griswold",
+    "alt": "Photo of Kyle Griswold",
+    "out": "images/people/kyle-griswold.jpg",
+    "size": [
+      700,
+      933
+    ]
+  },
+  {
+    "file": "c920f0_c4b323dc87224424adefc11f2dc55b36~mv2.jpg",
+    "group": "people",
+    "slug": "jules-hart",
+    "alt": "Photo of Jules Hart",
+    "out": "images/people/jules-hart.jpg",
+    "size": [
+      700,
+      933
+    ]
+  },
+  {
+    "file": "0cb15d_d3934428dc1e467abde51c2e44e10130~mv2.jpg",
+    "group": "people",
+    "slug": "alice-gevorgyan",
+    "alt": "Photo of Alice Gevorgyan",
+    "out": "images/people/alice-gevorgyan.jpg",
+    "size": [
+      700,
+      933
+    ]
+  },
+  {
+    "file": "c920f0_82c3f9d78f1d4bc0aaa5b22d590122f9~mv2.jpeg",
+    "group": "people",
+    "slug": "thomas-lonergan",
+    "alt": "Photo of Thomas Lonergan",
+    "out": "images/people/thomas-lonergan.jpg",
+    "size": [
+      700,
+      446
+    ]
+  },
+  {
+    "file": "c920f0_3e55809dbe924ab9bd62c20e3d3940df~mv2.png",
+    "group": "people",
+    "slug": "alexis-ellis",
+    "alt": "Photo of Alexis Ellis",
+    "out": "images/people/alexis-ellis.jpg",
+    "size": [
+      700,
+      655
+    ]
+  },
+  {
+    "file": "c920f0_ac37eedf978c456d8997fa1bc6f80811~mv2.png",
+    "group": "people",
+    "slug": "oge-okpala",
+    "alt": "Photo of Oge Okpala",
+    "out": "images/people/oge-okpala.jpg",
+    "size": [
+      552,
+      508
+    ]
+  },
+  {
+    "file": "0cb15d_326d40880ea841a79f4d30069d2195af~mv2.jpg",
+    "group": "people",
+    "slug": "arielle-johnson",
+    "alt": "Photo of Arielle Johnson",
+    "out": "images/people/arielle-johnson.jpg",
+    "size": [
+      700,
+      525
+    ]
+  },
+  {
+    "file": "c920f0_cc56d9b3be1044229fd7e4f5f472fe0a~mv2.jpg",
+    "group": "people",
+    "slug": "lara-jacobowitz",
+    "alt": "Photo of Lara Jacobowitz",
+    "out": "images/people/lara-jacobowitz.jpg",
+    "size": [
+      700,
+      933
+    ]
+  },
+  {
+    "file": "c920f0_a272bc3661314d56884a387fa8a15a80~mv2.jpeg",
+    "group": "people",
+    "slug": "matthew-norman-ariztia",
+    "alt": "Photo of Matthew Norman-Arizt\u00eda",
+    "out": "images/people/matthew-norman-ariztia.jpg",
+    "size": [
+      700,
+      933
+    ]
+  },
+  {
+    "file": "c920f0_5d3a795d78e841a59e0ddc34db17e83e~mv2.jpeg",
+    "group": "people",
+    "slug": "adrian-munoz",
+    "alt": "Photo of Adrian Munoz",
+    "out": "images/people/adrian-munoz.jpg",
+    "size": [
+      700,
+      933
+    ]
+  },
+  {
+    "file": "c920f0_41e07fdfb01f4a9daa049777352f1dc4~mv2.jpg",
+    "group": "people",
+    "slug": "felix-guo",
+    "alt": "Photo of Felix Guo",
+    "out": "images/people/felix-guo.jpg",
+    "size": [
+      280,
+      386
+    ]
+  },
+  {
+    "file": "c920f0_947f505456b344bab7ba4bacfba87b16~mv2.jpg",
+    "group": "people",
+    "slug": "vesna-bacheva",
+    "alt": "Photo of Vesna Bacheva",
+    "out": "images/people/vesna-bacheva.jpg",
+    "size": [
+      700,
+      631
+    ]
+  },
+  {
+    "file": "c920f0_47c715a5b43b4fb798d4603ebfa3b38f~mv2.jpeg",
+    "group": "people",
+    "slug": "juliane-scholtz",
+    "alt": "Photo of Juliane Scholtz",
+    "out": "images/people/juliane-scholtz.jpg",
+    "size": [
+      700,
+      1090
+    ]
+  },
+  {
+    "file": "c920f0_7a769fcc6342477592b335ef8244f4e0~mv2.jpg",
+    "group": "people",
+    "slug": "samantha-pelletier",
+    "alt": "Photo of Samantha Pelletier",
+    "out": "images/people/samantha-pelletier.jpg",
+    "size": [
+      678,
+      675
+    ]
+  },
+  {
+    "file": "0cb15d_4f68bb5b40a644b88b11f7fff8995439~mv2.jpg",
+    "group": "people",
+    "slug": "nicole-szeluga",
+    "alt": "Photo of Nicole Szeluga",
+    "out": "images/people/nicole-szeluga.jpg",
+    "size": [
+      700,
+      737
+    ]
+  },
+  {
+    "file": "c920f0_c9a63cb296c2497f9e38d9571e6dc338~mv2.png",
+    "group": "people",
+    "slug": "nat-michaels",
+    "alt": "Photo of Nat Michaels",
+    "out": "images/people/nat-michaels.jpg",
+    "size": [
+      700,
+      1050
+    ]
+  },
+  {
+    "file": "de23fd_e5fdec7d3fce45279fd01cd6c6d748de~mv2.png",
+    "group": "people",
+    "slug": "etienne-exantus",
+    "alt": "Photo of Etienne Exantus",
+    "out": "images/people/etienne-exantus.jpg",
+    "size": [
+      335,
+      429
+    ]
+  },
+  {
+    "file": "c920f0_89264391b22b42b385c0cfb8cc8ac62c~mv2.jpg",
+    "group": "people",
+    "slug": "allison-marie-kokal",
+    "alt": "Photo of Allison Marie Kokal",
+    "out": "images/people/allison-marie-kokal.jpg",
+    "size": [
+      700,
+      700
+    ]
+  },
+  {
+    "file": "0cb15d_33e648005df94aab8875713be38e84af~mv2.jpg",
+    "group": "people",
+    "slug": "diego-hernandez",
+    "alt": "Photo of Diego Hernandez",
+    "out": "images/people/diego-hernandez.jpg",
+    "size": [
+      700,
+      901
+    ]
+  },
+  {
+    "file": "c920f0_1a6c8a74af29465aab5596e17e0a6cde~mv2.jpeg",
+    "group": "people",
+    "slug": "ophir-yaari",
+    "alt": "Photo of Ophir Yaari",
+    "out": "images/people/ophir-yaari.jpg",
+    "size": [
+      700,
+      933
+    ]
+  },
+  {
+    "file": "c920f0_92fa9ebef9f0461f83d9bc595cea8a65~mv2.jpg",
+    "group": "people",
+    "slug": "weiwei-chen",
+    "alt": "Photo of Weiwei Chen",
+    "out": "images/people/weiwei-chen.jpg",
+    "size": [
+      700,
+      700
+    ]
+  },
+  {
+    "file": "c920f0_d0f4d05d0b5e4ccb858d92a3b9187867~mv2.jpg",
+    "group": "groups",
+    "slug": "field-season-2026",
+    "alt": "Greenhouse Grafting & Phenotyping",
+    "out": "images/groups/field-season-2026.jpg"
+  },
+  {
+    "file": "c920f0_d0527c106926477b9cf24b11d9594df6~mv2.png",
+    "group": "groups",
+    "slug": "lab-team-portrait",
+    "alt": "Plant Biology & Molecular Genetics",
+    "out": "images/groups/lab-team-portrait.jpg"
+  },
+  {
+    "file": "c920f0_90a71d1ac92b4501ba7a7c225c37568d~mv2.jpg",
+    "group": "groups",
+    "slug": "cornell-campus-arts-quad",
+    "alt": "Frank Lab on the Arts Quad & McGraw Tower",
+    "out": "images/groups/cornell-campus-arts-quad.jpg"
+  },
+  {
+    "file": "c920f0_f10e7243b8ee43f79b171d6e0a30f1e0~mv2.jpg",
+    "group": "groups",
+    "slug": "arielle-wedding-celebration",
+    "alt": "Celebrating Arielle's Wedding Together",
+    "out": "images/groups/arielle-wedding-celebration.jpg"
+  },
+  {
+    "file": "c920f0_6b7d6c92baaf4edc944de20264e734d7~mv2.jpeg",
+    "group": "groups",
+    "slug": "cayuga-lake-summer-gathering",
+    "alt": "Team Outing along Cayuga Lake",
+    "out": "images/groups/cayuga-lake-summer-gathering.jpg"
+  },
+  {
+    "file": "c920f0_5142fd81aecf4abcbf8bb24e48e353f5~mv2.jpeg",
+    "group": "groups",
+    "slug": "lab-dinner-celebration",
+    "alt": "Lab Dinner & Social Gathering",
+    "out": "images/groups/lab-dinner-celebration.jpg"
+  },
+  {
+    "file": "c920f0_965aa4070646454cb2d869dfba7e3b1d~mv2.jpg",
+    "group": "groups",
+    "slug": "ithaca-overlook-team",
+    "alt": "Cayuga Lake Overlook with the Frank Lab Team",
+    "out": "images/groups/ithaca-overlook-team.jpg"
+  },
+  {
+    "file": "de23fd_f9b6bad99f284522a01e3fc3a7c2e8c5~mv2.png",
+    "group": "groups",
+    "slug": "finger-lakes-vineyard-sunset",
+    "alt": "Sunset Gathering at the Vineyard",
+    "out": "images/groups/finger-lakes-vineyard-sunset.jpg"
+  },
+  {
+    "file": "c920f0_57859b78ca2d4a9dbceaf3c33172b207~mv2.jpeg",
+    "group": "groups",
+    "slug": "lab-field-selfie",
+    "alt": "Research Team Smiles in the Field",
+    "out": "images/groups/lab-field-selfie.jpg"
+  },
+  {
+    "file": "de23fd_3a4b917f8f4a4a65a0f9ef4be6929911~mv2.png",
+    "group": "groups",
+    "slug": "orchard-sunset-dinner",
+    "alt": "Sunset Dinner & Cider Tasting",
+    "out": "images/groups/orchard-sunset-dinner.jpg"
+  },
+  {
+    "file": "de23fd_b83e43f4a230497faae347d3345c5396~mv2.png",
+    "group": "groups",
+    "slug": "field-harvest-season",
+    "alt": "Harvesting Experimental Lines in the Field",
+    "out": "images/groups/field-harvest-season.jpg"
+  },
+  {
+    "file": "0cb15d_39bd9ce39d514483a532dc6831890cf8~mv2.jpg",
+    "group": "groups",
+    "slug": "holiday-dinner-party",
+    "alt": "Annual Frank Lab Holiday Celebration",
+    "out": "images/groups/holiday-dinner-party.jpg"
+  },
+  {
+    "file": "0cb15d_587449ff6f7f4401928a3e5a26280f0f~mv2.jpg",
+    "group": "groups",
+    "slug": "lab-birthday-chalkboard",
+    "alt": "Birthday Celebrations in the Lab",
+    "out": "images/groups/lab-birthday-chalkboard.jpg"
+  },
+  {
+    "file": "0cb15d_be6bd75ba7e7453dbaf07f83cdf885fc~mv2.png",
+    "group": "groups",
+    "slug": "field-grafting-research",
+    "alt": "Field Trials & Grafting Experiments",
+    "out": "images/groups/field-grafting-research.jpg"
+  },
+  {
+    "file": "c920f0_b605710e7cc74181bde3fefbd1fa69b1~mv2.jpeg",
+    "group": "groups",
+    "slug": "taughannock-falls-outing",
+    "alt": "Taughannock Falls State Park \u2022 Ithaca, NY",
+    "out": "images/groups/taughannock-falls-outing.jpg"
+  }
+]

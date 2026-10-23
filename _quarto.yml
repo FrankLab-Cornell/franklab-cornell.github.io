@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "!*.md"
+    - "!content/**"
+    - "!_original_site/**"
+  resources:
+    - "images/"
+    - "videos/"
+
+website:
+  title: "Frank Lab"
+  navbar:
+    background: primary
+    search: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Us
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: people.qmd
+        text: Lab Members
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    center: "Frank Lab • School of Integrative Plant Science • Cornell University"
+
+format:
+  html:
+    theme:
+      light: cosmo
+    css: styles.css
+    toc: false

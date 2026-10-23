@@ -1,0 +1,15 @@
+---
+title: "About Us"
+---
+
+![Lab members jumping in the snow in front of a frozen waterfall](images/about/about-lab.jpg)
+
+## Research in the Frank Lab
+
+**Scientific scholarship:** We are advancing humankind’s knowledge of agriculture and science through cutting-edge research into plant signaling and development. Our work is built on exciting collaborations that extend across labs, institutions, and disciplines. We value open and transparent sharing of discoveries and tools. We adhere to a data management plan that ensures integrity, accuracy, and historic record keeping of our data. We acknowledge our sources and the resources that make our science possible. We support an environment that is open to scientists from all backgrounds.
+
+**Mentorship:** We participate in growth-minded mentorship ([Montgomery, 2019](https://projects.kora.matrix.msu.edu/files/6-15-173284/MontgomeryBeronda.FromDeficitstoPossibilitiesPPJ1.1Spring2018.pdf)) to help shape the scientists of the future. A growth mindset is the belief that the talents and abilities of individuals can be developed or cultivated ([Montgomery, 2019](https://projects.kora.matrix.msu.edu/files/6-15-173284/MontgomeryBeronda.FromDeficitstoPossibilitiesPPJ1.1Spring2018.pdf); [Dweck, 2016](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)). We believe in all lab members’ potential for success and strive for positive mentorship and learning opportunities for all lab members.
+
+**Outreach:** We create and participate in outreach activities that expand beyond our academic communities so that the greater public can engage in our science and learn about how our work seeks to positively impact society.
+
+**Making our publications publicly available:** We aim to post all of our original research manuscripts on BioRxiv prior to submitting them for peer review. When financially possible, we prioritize publishing in open-access journals to avoid the common “pay wall” and to make our research available to all.
