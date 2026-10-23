@@ -65,18 +65,73 @@ When a student or postdoc graduates or moves on:
 
 ---
 
-## 2. Adding Collaborators on GitHub
+## 2. Adding Website Editors & Collaborators
 
-To allow Dr. Margaret Frank, lab managers, or other members to edit the website repository:
+There are two levels where you can add editors:
+- **Level A: Organization-Wide** (Inviting members to the `FrankLab-Cornell` organization)
+- **Level B: Repository-Specific** (Granting direct write/admin permissions to `franklab-cornell.github.io`)
 
-1. Open the Organization settings in your browser:  
+---
+
+### Method A: Add an Editor to the GitHub Organization
+
+Best for adding Dr. Margaret Frank, permanent staff, postdocs, and students to the lab's GitHub team.
+
+1. Open your Organization People settings:  
    👉 **[https://github.com/orgs/FrankLab-Cornell/people](https://github.com/orgs/FrankLab-Cornell/people)**
-2. Click the green **Invite member** button.
-3. Enter their GitHub username or email address.
-4. Select their role:
-   - **Owner:** Full admin control over the organization and repositories (recommended for Dr. Margaret Frank).
-   - **Member:** Can be granted write access to push changes and maintain code.
-5. Click **Send invitation**.
+2. Click the green **Invite member** button in the top right.
+3. Type the person's **GitHub username** or their **email address**.
+4. Choose their organization role:
+   - **Owner (Admin):** Has complete administrative control over the entire organization, billing, and all repositories.  
+     > *Recommendation:* Add **Dr. Margaret Frank** and at least one other permanent/senior member as **Owners** so lab access is never lost when students graduate.
+   - **Member:** Can view and contribute to organization repositories without access to organization billing or administrative settings.
+5. Click **Send invitation**.  
+   *(The invited person will receive an email and an on-screen notification on GitHub to accept the invitation).*
+
+---
+
+### Method B: Add an Editor Specifically to the Website Repository
+
+Best if you want to grant direct push permissions to someone (even outside the organization) specifically for the website repository:
+
+1. Open the Repository Access settings:  
+   👉 **[https://github.com/FrankLab-Cornell/franklab-cornell.github.io/settings/access](https://github.com/FrankLab-Cornell/franklab-cornell.github.io/settings/access)**
+2. Click the green **Add people** button.
+3. Search for their GitHub username or email address.
+4. Choose their permission level:
+   - **Admin:** Can edit code, configure GitHub Pages, manage custom domains, and add other editors.
+   - **Write (Recommended for website editors):** Can push changes, add new photos, edit content, and deploy updates.
+   - **Read:** Can view code only.
+5. Click **Add [name] to this repository**.
+
+---
+
+### How New Editors Work on the Website
+
+Once invited, an editor can work on the website in two ways:
+
+#### Option 1: On Their Computer (Recommended for full edits and adding photos)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/FrankLab-Cornell/franklab-cornell.github.io.git
+   cd franklab-cornell.github.io
+   ```
+2. Make edits in `content/` or add photos in `images/`.
+3. Rebuild and publish:
+   ```bash
+   python3 tools/build_qmd.py && quarto render
+   git commit -am "Update content"
+   git push origin main
+   ```
+   *(When pushing for the first time, Git will prompt them for their GitHub username and a Personal Access Token created under [https://github.com/settings/tokens](https://github.com/settings/tokens) with the `repo` scope).*
+
+#### Option 2: Quick Edits Directly in the Web Browser
+For small typo fixes or text tweaks without installing any software:
+1. Open the repository on GitHub: [https://github.com/FrankLab-Cornell/franklab-cornell.github.io](https://github.com/FrankLab-Cornell/franklab-cornell.github.io)
+2. Navigate to any file in `content/` (e.g. `content/contact.md`).
+3. Click the pencil icon (✏️ **Edit this file**) in the top right.
+4. Make your text changes, scroll to the bottom, and click **Commit changes**.
+   > *Note:* Edits made directly on GitHub modify the source markdown. To update the live web pages, `build_qmd.py` and `quarto render` should be run and committed to update the `docs/` deployment folder.
 
 ---
 
