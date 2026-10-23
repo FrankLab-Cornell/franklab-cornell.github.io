@@ -44,6 +44,6 @@ Reference: [Dialogue.argon.md](Dialogue.argon.md) (Quarto workflow). The GitHub 
 ### Step 6: Publish to GitHub Pages (DONE)
 - Configured git identity for `marktjs <marktjs@gmail.com>`.
 - Initialized repository, integrated remote `README.md`, committed full website source, assets, and `docs/` deployment folder.
-- Pushed branch `main` to `https://github.com/marktjs/franklab.github.io.git`.
-- Activated GitHub Pages with source `main` / `docs` via GitHub REST API.
-- Verified live deployment at **https://marktjs.github.io/franklab.github.io/**.
+- Pushed branch `main` to `https://github.com/FrankLab-Cornell/franklab-cornell.github.io.git`.
+- Configured GitHub Pages with source `main` / `docs` and `.nojekyll`.
+- Verified live deployment at clean organization root URL: **https://franklab-cornell.github.io/**.
