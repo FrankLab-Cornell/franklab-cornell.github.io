@@ -42,7 +42,7 @@ Reference: [Dialogue.argon.md](Dialogue.argon.md) (Quarto workflow). The GitHub 
 - Content verified and refined: updated Frank Lab address to 249 Plant Science, fixed member photo crops, implemented Scandinavian Zen hero with microscopy time-lapse video, and restored complete 15-photo interactive group slideshow.
 
 ### Step 6: Publish to GitHub Pages (DONE)
-- Configured git identity for `marktjs <marktjs@gmail.com>`.
+- Configured git identity for `marktjs <marktjs@users.noreply.github.com>`.
 - Initialized repository, integrated remote `README.md`, committed full website source, assets, and `docs/` deployment folder.
 - Pushed branch `main` to `https://github.com/FrankLab-Cornell/franklab-cornell.github.io.git`.
 - Configured GitHub Pages with source `main` / `docs` and `.nojekyll`.
