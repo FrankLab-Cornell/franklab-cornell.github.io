@@ -5,7 +5,7 @@ go to https://hrt388.wixsite.com/website from the firefox in this computer and b
 
 ---
 
-A running log of everything done is in [LOG.md](LOG.md).
+A running log of everything done is maintained in `LOG.md` (kept local & private).
 
 ## Steps
 
@@ -17,7 +17,7 @@ Reference: [Dialogue.argon.md](Dialogue.argon.md) (Quarto workflow). The GitHub 
 - Optional: do a real interactive browse (scroll and click) with Playwright and Firefox to check nothing is hidden.
 
 ### Step 2: Clean up the content for the new site (Dialogue Phase 1, part 2) (DONE)
-- Result in `content/` (Markdown plus `people.yml`) and `images/` (10.5 MB). Details and open questions for Margaret are in `LOG.md`.
+- Result in `content/` (Markdown plus `people.yml`) and `images/` (10.5 MB). Details and open questions for Margaret are in local `LOG.md`.
 - Turn `original_site/text/*.md` into clean Markdown with no Wix menu or footer text.
   - Pages: `index` (Home and news), `about`, `research`, `people` (Lab Members), `publications`, `contact`.
 - Match Lab Members photos to people using `original_site/html/lab-members.html`.
